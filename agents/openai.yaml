@@ -1,4 +1,4 @@
 interface:
   display_name: "Modern C++ Programmer"
-  short_description: "Focused C++ code reading and implementation"
-  default_prompt: "Use $modern-cpp-programmer to implement a concise Modern C++ module while preserving the existing codebase style."
+  short_description: "C++ task triage, reading, and implementation"
+  default_prompt: "Use $modern-cpp-programmer to classify this C++ task, then implement or analyze it with focused validation."
