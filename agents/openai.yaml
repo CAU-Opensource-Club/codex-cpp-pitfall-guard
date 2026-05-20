@@ -1,4 +1,4 @@
 interface:
   display_name: "Modern C++ Programmer"
-  short_description: "C++ task triage, reading, and implementation"
-  default_prompt: "Use $modern-cpp-programmer to classify this C++ task, then implement or analyze it with focused validation."
+  short_description: "C++ guardrails for careful reading and implementation"
+  default_prompt: "Use $modern-cpp-programmer to avoid common C++ analysis and implementation mistakes while working on this task."
