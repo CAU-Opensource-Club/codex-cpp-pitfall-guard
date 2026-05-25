@@ -1,4 +1,4 @@
-这是一个简单的现代C++编程vibe coding防错skill。
+这是一个简单的 Codex C++ pitfall guard skill。
 它的用途是：
 根据我的使用经验，总结出了一些GPT 5.X常犯的错误。
 目的是避免GPT 5.5在实际读代码-写代码中经常容易犯的错误。

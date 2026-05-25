@@ -1,5 +1,5 @@
 ---
-name: modern-cpp-programmer
+name: codex-cpp-pitfall-guard
 description: "Use when Codex reads, analyzes, compares, reviews, modifies, generates, designs, or verifies code, especially C++/CMake. Apply strict guardrails for premise verification, comparable-context analysis, Modern C++ implementation, SSOT, performance-sensitive ownership, minimal code generation, and avoiding unnecessary project-wide compilation. Do not use for unrelated tasks."
 ---
 

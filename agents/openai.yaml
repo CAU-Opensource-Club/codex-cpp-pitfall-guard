@@ -1,4 +1,4 @@
 interface:
-  display_name: "Modern C++ Programmer"
+  display_name: "Codex C++ Pitfall Guard"
   short_description: "Code reading and C++ writing guardrails"
-  default_prompt: "Use $modern-cpp-programmer to apply strict code-reading, Modern C++ implementation, SSOT, ownership, minimal-generation, and focused-validation rules."
+  default_prompt: "Use $codex-cpp-pitfall-guard to apply strict code-reading, Modern C++ implementation, SSOT, ownership, minimal-generation, and focused-validation rules."
