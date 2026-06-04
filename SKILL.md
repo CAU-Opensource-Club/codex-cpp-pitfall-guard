@@ -26,6 +26,7 @@ Inspect the code before accepting the user's framing. Treat questions and assump
 - Keep analysis serious, specific, and grounded in file paths, functions, types, constraints, and observable behavior.
 - When analyzing implementation pros and cons, be strict: unsupported benefits are not benefits, and missing functionality remains missing functionality.
 - Distinguish implemented behavior, inferred intent, and speculation.
+- When reading code and producing analysis output, including Markdown documents and direct answers, replace project-internal terminology with general terminology.
 
 Use precise labels when helpful:
 
